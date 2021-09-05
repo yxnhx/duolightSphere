@@ -1,2 +1,2 @@
-# congenial-doodle
+# duochrome visualiser
 Experimenting with Three.js
