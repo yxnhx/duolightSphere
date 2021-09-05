@@ -1,2 +1,2 @@
-# Duochrome Visualiser
+# Duochrome Sphere Visualiser
 Experimenting with Three.js
