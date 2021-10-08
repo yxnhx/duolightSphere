@@ -1,4 +1,4 @@
-# Duolight Sphere Visualiser
+# Sphere Visualiser
 Currently experimenting and beginning my journey with Three.js and wanted to play around with 3D shapes starting with something basic yet versatile (sphere). This is a fun and great way to learn about light sources and where shadows fall on a sphere. You can read a basic how to use below or you start experimenting straight away. There are also examples of colour schemes that you can start to play around to create exciting depths and colour combinations to achieve your ideal theme/vibe. Enjoy!
 
 https://duolight.netlify.app
